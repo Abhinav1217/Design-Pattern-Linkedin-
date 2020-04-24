@@ -6,7 +6,7 @@ to its subclasses.
 - Base class simply provides a blueprint on what an object should look like.  
 - The implementing class will create object based on the blueprint but adjusted to what its need.
 
-![Factory Method](./images/Class_Explosion_001.png)
+![Factory Method](./images/Factory_Method_001.png)
 
 - Create objects based on runtime parameter.
 - You don't need to know which objects you need to create.
